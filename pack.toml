@@ -1,0 +1,13 @@
+name = "DziwnyModPack"
+author = "FFTV"
+version = "1.0.15"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "40b400a161ef12cec7d01f2b3043a5456699b5562c8a2848e32810eb5a8d5563"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
