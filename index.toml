@@ -5,8 +5,8 @@ file = "README.md"
 hash = "7d29d2410a25ddf93ed362ab3e986028fa990b42755101023142eb211d301ef1"
 
 [[files]]
-file = "mods/dziwnymod-1.0.40.jar"
-hash = "803a6dbc9ff27a47e17acb658c73f34d3cc20d2b4b70b68c06c97f2263b073a9"
+file = "mods/dziwnymod-1.0.43.jar"
+hash = "bc72aadf205b9bd7dd3cca10470ad7690d8b17956a21ef64d2166b0d85c40a98"
 
 [[files]]
 file = "mods/essential.pw.toml"
@@ -21,6 +21,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "82e2c1ac8875303b3dfc70ce7cfe8ca08ca1c1629c34f986441ea203f5fb645c"
 metafile = true
 
 [[files]]
