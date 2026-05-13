@@ -5,8 +5,8 @@ file = "README.md"
 hash = "7d29d2410a25ddf93ed362ab3e986028fa990b42755101023142eb211d301ef1"
 
 [[files]]
-file = "mods/dziwnymod-1.0.25.jar"
-hash = "27289889712e14904b8989f61a1dc722f7ed0fdb2ed381a44ca04a9f441843fd"
+file = "mods/dziwnymod-1.0.26.jar"
+hash = "cca47fb093975668b960180d40a1615a18aeaf751eba59419d10537d653a28e3"
 
 [[files]]
 file = "mods/essential.pw.toml"
