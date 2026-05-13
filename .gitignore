@@ -1,3 +1,6 @@
 .packwizignore
 *.jar
+# Allow DziwnyMod JAR — it's the pack's core mod, distributed as a loose file
+# in mods/ and pulled directly from this repo's raw URL by packwiz clients.
+!mods/dziwnymod-*.jar
 .cache/
