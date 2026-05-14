@@ -1,12 +1,12 @@
 name = "DziwnyModPack"
 author = "FFTV"
-version = "1.1.14"
+version = "1.1.15"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b950604d765a1764a17763ea14fb75277ffefa04a9f9f8f99a45b109238ba4b1"
+hash = "0785f34b25ca6ee819113ae06fe13f38ad80ba3aaffd4569ee9a4f22ffe037c3"
 
 [versions]
 minecraft = "1.21.1"
