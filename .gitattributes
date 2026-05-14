@@ -1,0 +1,4 @@
+# Packwiz files must stay LF — their SHA256 hashes are computed by `packwiz refresh`
+# and must match what GitHub Pages serves. CRLF would invalidate every hash on Windows.
+*.toml    text eol=lf
+*.pw.toml text eol=lf
